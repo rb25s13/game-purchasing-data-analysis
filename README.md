@@ -1,7 +1,6 @@
 # Heroes of Pymoli Data Analysis
 
-[+..••]&nbsp;&nbsp;&nbsp;&nbsp;(+[__]∙:∙)
-GΛMΣ-ӨVΣЯ
+[+..••]&nbsp;&nbsp;&nbsp;&nbsp;GΛMΣ-ӨVΣЯ
 
 ## Conclusions
 		The Age Demographics show that over half (~58%) of the players are in their twenties. 
