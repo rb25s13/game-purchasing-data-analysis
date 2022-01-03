@@ -2,7 +2,23 @@
 
 [+..••]&nbsp;&nbsp;&nbsp;&nbsp;GΛMΣ-ӨVΣЯ
 
-## Conclusions
+
+<details>
+<summary> Tools, Languages, & Libraries Utilized</summary>
+<li>Python</li>
+<li>Pandas</li>
+<li>VS Code</li>
+<li>Jupyter Notebook</li>
+</details>
+
+### Contents:
+
+		/HeroesOfPymoli - contains jupyter file
+			/Resources folder containing csv data
+		
+
+### Conclusions: 
+
 		The Age Demographics show that over half (~58%) of the players are in their twenties. 
 		We do not see a large variance in the average purchase price per age group.
 
@@ -14,10 +30,5 @@
 		I took the mean of the purchase count and found that the players on average make 1.35
 		purchases implying people are not always making multiple purchases.
 
-### Contents:
-
-		/HeroesOfPymoli - contains jupyter file
-			/Resources folder containing csv data
-		
 
 		
